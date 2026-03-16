@@ -1,0 +1,15 @@
+{
+  "id": "14fe341e-2b93-4859-b795-c2d447ebb321",
+  "title": "goodbye",
+  "created_at": "Mar 15, 05:47 PM",
+  "messages": [
+    {
+      "role": "user",
+      "content": "goodbye"
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "f79608cd-c6bf-488e-9568-b528621dedf7",
+  "title": "hello",
+  "created_at": "Mar 15, 05:53 PM",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "“My name is Aditi. I like hiking and food. I prefer concise answers.”"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Aditi. What's your favorite type of hike or outdoor activity?"
+    },
+    {
+      "role": "user",
+      "content": "I like picnics. What should I do this weekend?”"
+    },
+    {
+      "role": "assistant",
+      "content": "You could plan a picnic in a nearby park."
+    },
+    {
+      "role": "user",
+      "content": "I like chocolate milk and baguette. "
+    },
+    {
+      "role": "assistant",
+      "content": "Those sound like delicious French treats! Have you considered trying a new hiking trail nearby that has picnic spots?"
+    }
+  ]
+}

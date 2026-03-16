@@ -1,0 +1,15 @@
+{
+  "id": "f088bbad-ffc9-410c-b88c-c847b381d1e0",
+  "title": "exam tomorrow on linear alge",
+  "created_at": "Mar 15, 05:47 PM",
+  "messages": [
+    {
+      "role": "user",
+      "content": "exam tomorrow on linear algebra"
+    },
+    {
+      "role": "assistant",
+      "content": "Linear Algebra can be a challenging topic, but here are some tips to help you prepare for your exam:\n\n**Review the Basics**\n\n1. Familiarize yourself with the concepts of vectors, linear independence, and span.\n2. Review the definition and properties of matrix operations, such as addition, multiplication, and scalar multiplication.\n3. Understand the concept of eigenvalues and eigenvectors.\n\n**Focus on Key Topics**\n\n1. **Quadratic Forms**: Review the properties of quadratic forms, including the existence and uniqueness of the quadratic form, and the relationship between the quadratic form and the quadratic part.\n2. **Singular Value Decomposition (SVD)**: Understand the SVD decomposition of a matrix, and how it relates to the eigenvalues and eigenvectors of the matrix.\n3. **Orthogonality**: Review the properties of orthogonal matrices, including the fact that the transpose of an orthogonal matrix is its inverse.\n4. **Inner Product**: Review the definition and properties of the inner product, including the properties of the dot product.\n\n**Practice Problems and Past Exams**\n\n1. Practice solving problems on the basics of linear algebra, such as quadratic forms and the SVD decomposition.\n2. Review past exams or online resources, such as Khan Academy, MIT"
+    }
+  ]
+}
