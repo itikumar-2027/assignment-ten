@@ -94,3 +94,5 @@ i want to include ALL categories mentioned above
 # I tested this by saying the following sentences: “My name is Aditi. I like hiking and food. I prefer concise answers, "What should I do this weekend"
 
 #that does work, but i'm still a tad confused about what should appear in memory.json --> learned that when the memory is cleared, json is ALSO cleared. didn't realize this before. 
+
+# I had some issues with the url. I got a url but it was blank when i opened it even though i worked on in throughout the assignment. Ultimately, realized it was because: 
