@@ -95,4 +95,4 @@ i want to include ALL categories mentioned above
 
 #that does work, but i'm still a tad confused about what should appear in memory.json --> learned that when the memory is cleared, json is ALSO cleared. didn't realize this before. 
 
-# I had some issues with the url. I got a url but it was blank when i opened it even though i worked on in throughout the assignment. Ultimately, realized it was because: 
+# I had some issues with the url. I got a url but it was blank when i opened it even though i worked on in throughout the assignment. Ultimately, realized it was because of an issue with the files. 
